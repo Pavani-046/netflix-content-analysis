@@ -31,7 +31,7 @@ Exploratory data analysis (EDA) of 8,807 Netflix titles (movies and TV shows) to
 
 ## How to run
 1. Download `netflix_titles.csv` from the Kaggle link above, or use the copy in this repo.
-2. Open `Netflix_Content_Analysis.ipynb` in Google Colab or Jupyter.
+2. Open `Netflix_Content_Analysis(1).ipynb` in Google Colab or Jupyter.
 3. Upload the CSV next to the notebook and run all cells.
 
 ## Next steps
